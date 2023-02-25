@@ -1,6 +1,6 @@
 # Hey 👋 I'm Aditya!
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Full Stack Web Development
 - 🔭 I’m currently working on my Frontend skills
 - 👯 I’m looking to collaborate on Frontend projects
 - 🤔 I’m looking for help with UI/UX Design
